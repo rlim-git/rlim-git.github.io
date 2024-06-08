@@ -1,35 +1,43 @@
 ---
-title: Markdown Mystery Tour
+title: Projet de robotique
 publishDate: 2020-03-02 00:00:00
-img: /assets/stock-1.jpg
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img: /assets/projet_robot.jpg
+img_alt: Image représentant le projet de robotique
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  Développement d'une application Android pour contrôler un robot
 tags:
-  - Design
-  - Dev
-  - User Testing
+  - Developpement
+  - Robotique
+  - Travail en équipe
 ---
 
-## Level-two heading
+## Introduction
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
+Durant mon cinquième semestre à l'IUT, j'ai travaillé dans le développement d'un application Android permettant de contrôler un robot comme un casque de réalité virtuelle. J'ai réalisé ce projet avec 9 autres étudiants.
 
-Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
+### Mon rôle dans le projet
 
-Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Eget gravida cum sociis natoque penatibus. Cras fermentum odio eu feugiat pretium nibh. Proin nibh nisl condimentum id venenatis. Porta nibh venenatis cras sed felis eget velit. Id diam vel quam elementum pulvinar etiam non.
+On m'a attribué le rôle d'organisateur d'outils dans lequel j'étais chargé de fournir et mettre en place les outils nécessaires à mon équipe pour la réalisation du projet comme les outils de planification, de répartition de tâches, de communication et de collaboration.
 
-### Level-three heading
+Pour la partie analyse et réalisation, je me suis occupé des maquettes et du développement de l'application mobile en utilisant Android Studio.
 
-Ultrices tincidunt arcu non sodales neque sodales ut. Sed enim ut sem viverra aliquet eget sit amet. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Viverra accumsan in nisl nisi scelerisque eu ultrices. In massa tempor nec feugiat nisl pretium fusce.
+### Un projet stimulant et innovant
 
-### Level-three heading
+Ce travail a été mon premier projet avec une aussi grande équipe. Nous avons du nous organiser afin de faciliter la collaboration. J'ai eu un rôle central qui m'a appris certaines compétences de management comme l'organisation du travail, la répartition et le suivi des tâches, la gestion d'une équipe.
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+Il m'a permis aussi d'acquérir beaucoup de compétences techniques dans le développement multimédia et réseaux.
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+De plus, ce projet nous a ouvert à un enjeu intéresssant qui est le télétravail. En effet, ce projet pourrait permettre de faire des tâches manuelles à distance ou encore explorer des zones dangereuses en toute sécurité.
 
-#### Level-four heading
+#### Compétences développés et acquises
 
-- We noted this
-- And also this other point
+- Travail en équipe
+- Gestion et organisation d'une équipe
+- Rédaction
+- Maquettage
+- Développement Android :
+  - Java
+  - XAML
+
+#### Autres ressources
+[Rapport du projet](/assets/Rapport_G2_SAE501.pdf)
