@@ -6,7 +6,7 @@ img_alt: Image représentant le projet de robotique
 description: |
   Développement d'une application Android pour contrôler un robot
 tags:
-  - Developpement
+  - Developpement Android
   - Robotique
   - Travail en équipe
 ---
