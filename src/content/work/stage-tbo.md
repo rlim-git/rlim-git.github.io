@@ -1,6 +1,6 @@
 ---
 title: Stage dans une entreprise de logistique
-publishDate: 2020-03-04 00:00:00
+publishDate: 2024-06-08 00:00:00
 img: /assets/tbo.PNG
 img_alt: Capture du module de tableaux de bords
 description: |

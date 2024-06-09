@@ -1,6 +1,6 @@
 ---
 title: Projet de robotique
-publishDate: 2020-03-02 00:00:00
+publishDate: 2024-06-07 12:59:00
 img: /assets/projet_robot.jpg
 img_alt: Image représentant le projet de robotique
 description: |
